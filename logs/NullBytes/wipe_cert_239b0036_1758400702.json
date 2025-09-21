@@ -1,0 +1,33 @@
+{
+    "drive_info": {
+        "device_id": "\\\\.\\PHYSICALDRIVE1",
+        "drive_letter": "E:",
+        "label": "USB Drive",
+        "size": 61525094400,
+        "model": " USB  SanDisk 3.2Gen1 USB Device",
+        "serial": "04017a9f9bd9a5b922ab",
+        "drive_type": "USB",
+        "interface": "USB",
+        "is_wipeable": true
+    },
+    "system_metadata": {
+        "hostname": "LAPTOP-3E8PVM3N",
+        "os": "Windows-11-10.0.26100-SP0",
+        "version": "10.0.26100",
+        "operator": "adity",
+        "architecture": "AMD64"
+    },
+    "operation_start": "2025-09-21T02:08:10.900818",
+    "operations_performed": [
+        "secure_file_deletion"
+    ],
+    "status": "completed",
+    "errors": [
+        "Format: Both format methods failed. Standard format: Unknown error. Diskpart: Unknown error"
+    ],
+    "operation_end": "2025-09-21T02:08:22.547404",
+    "duration_seconds": 11.976919412612915,
+    "uuid": "239b0036-9d7f-4a1f-9628-7fd485617055",
+    "timestamp": "2025-09-21T02:08:22.547404",
+    "tool_version": "2.0.0-Windows"
+}
